@@ -1,5 +1,5 @@
 # alfajor
-##receta 
+#receta# 
 conseguir carne 
 comprar carne 
 
